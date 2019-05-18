@@ -8,6 +8,7 @@ public class Day01Application {
 
     public static void main(String[] args) {
         SpringApplication.run(Day01Application.class, args);
+        System.out.println("============start Day01Application===========");
     }
 
 }
